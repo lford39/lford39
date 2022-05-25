@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fordlauren39@gmail.com**
 
-- ⚡ Fun fact **I'm certified as teacher in NYS.**
+- ⚡ Fun fact **I'm certified as a public school teacher in NYS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
