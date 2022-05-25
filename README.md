@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://laurenford.netlify.app/](my website)
+- 👨‍💻 All of my projects are available at [https://laurenford.netlify.app/](https://laurenford.netlify.app/)
 
 - 💬 Ask me about **#100devs**
 
