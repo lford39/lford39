@@ -5,17 +5,11 @@
 
 - 🌱 I’m currently learning **JavaScript, Node.js**
 
-- 👯 I’m looking to collaborate on **projects in JavaScript**
-
-- 🤝 I’m looking for help with **building full stack web applications**
-
-- 👨‍💻 All of my projects are available at [https://laurenford.netlify.app/](https://laurenford.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://laurenford.netlify.app/](my website)
 
 - 💬 Ask me about **#100devs**
 
 - 📫 How to reach me **fordlauren39@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bPeDrmRSb2W5H0DDq9QkhWljIxLh51ib/edit?usp=sharing&ouid=106327102951854043827&rtpof=true&sd=true](https://docs.google.com/document/d/1bPeDrmRSb2W5H0DDq9QkhWljIxLh51ib/edit?usp=sharing&ouid=106327102951854043827&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I'm certified as teacher in NYS.**
 
