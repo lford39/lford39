@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lauren Ford</h1>
 <h3 align="center">I'm a Software Engineer at 100Devs</h3>
 
-- 🔭 I’m currently working on **a 100 Hours Project**
+- 🔭 I’m currently working on **a Fullstack Project**
 
-- 🌱 I’m currently learning **JavaScript, Node.js**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://laurenford.netlify.app/](https://laurenford.netlify.app/)
 
